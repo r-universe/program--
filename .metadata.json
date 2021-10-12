@@ -2,5 +2,11 @@
   {
     "package": "fipio",
     "oncran": true
+  },
+  {
+    "package": "logdec"
+  },
+  {
+    "package": "HSClientR"
   }
 ]
