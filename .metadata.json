@@ -1,7 +1,7 @@
 [
   {
     "package": "fipio",
-    "oncran": true
+    "oncran": false
   },
   {
     "package": "logdec"
