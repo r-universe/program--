@@ -4,6 +4,10 @@
     "oncran": false
   },
   {
+    "package": "hilbert",
+    "oncran": true
+  },
+  {
     "package": "logdec"
   },
   {

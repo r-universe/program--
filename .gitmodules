@@ -8,6 +8,11 @@
 	url = https://github.com/program--/fipio
 	shallow = true
 	registered = true
+[submodule "hilbert"]
+	path = hilbert
+	url = https://github.com/program--/hilbert
+	shallow = true
+	registered = true
 [submodule "logdec"]
 	path = logdec
 	url = https://github.com/program--/logdec
