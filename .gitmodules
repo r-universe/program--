@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/program--/universe
-	shallow = true
 	branch = HEAD
-[submodule "fipio"]
-	path = fipio
-	url = https://github.com/program--/fipio
-	shallow = true
-	registered = true
-[submodule "hilbert"]
-	path = hilbert
-	url = https://github.com/program--/hilbert
-	shallow = true
-	registered = true
-[submodule "logdec"]
-	path = logdec
-	url = https://github.com/program--/logdec
-	shallow = true
-	registered = true
 [submodule "HSClientR"]
 	path = HSClientR
 	url = https://github.com/program--/hsclientr
-	shallow = true
-	registered = true
+[submodule "fipio"]
+	path = fipio
+	url = https://github.com/program--/fipio
+[submodule "hilbert"]
+	path = hilbert
+	url = https://github.com/program--/hilbert
+[submodule "logdec"]
+	path = logdec
+	url = https://github.com/program--/logdec
