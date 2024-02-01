@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/program--/universe
+	url = https://github.com/program--/program--.r-universe.dev
 	branch = HEAD
 [submodule "HSClientR"]
 	path = HSClientR
